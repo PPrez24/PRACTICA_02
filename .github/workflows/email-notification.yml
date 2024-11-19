@@ -30,6 +30,6 @@ jobs:
             ${{ github.event.head_commit.url }}
             
             Gracias,
-            El equipo de la práctica 2.
+            El equipo de la práctica 2 de integración de código.
           to: eduardo.perez@iteso.mx, angel.ochoa@iteso.mx, jose.chavez@iteso.mx           # Reemplaza con el destinatario real
           from: ${{ secrets.EMAIL_USERNAME }}
