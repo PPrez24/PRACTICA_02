@@ -31,5 +31,5 @@ jobs:
             
             Gracias,
             El equipo.
-          to: eduardo.perez@iteso.mx           # Reemplaza con el destinatario real
+          to: eduardo.perez@iteso.mx, angel.ochoa@iteso.mx, jose.chavez@iteso.mx           # Reemplaza con el destinatario real
           from: ${{ secrets.EMAIL_USERNAME }}
