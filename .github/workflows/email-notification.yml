@@ -30,6 +30,6 @@ jobs:
             ${{ github.event.head_commit.url }}
             
             Gracias,
-            El equipo.
+            El equipo de la práctica 2.
           to: eduardo.perez@iteso.mx, angel.ochoa@iteso.mx, jose.chavez@iteso.mx           # Reemplaza con el destinatario real
           from: ${{ secrets.EMAIL_USERNAME }}
